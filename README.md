@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jianghaihua
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
+
+[![GitHub issues](https://img.shields.io/github/issues/jianghaihua/jianghaihua)](https://github.com/jianghaihua/jianghaihua/issues)
 
 <!---
 jianghaihua/jianghaihua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
